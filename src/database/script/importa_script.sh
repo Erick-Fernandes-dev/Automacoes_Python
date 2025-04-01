@@ -35,7 +35,7 @@
 SCRIPT_DIR=$(dirname "$0")
 PROJECT_ROOT=$(cd "$SCRIPT_DIR/../../.." && pwd)
 DATA_DIR="${PROJECT_ROOT}/src/database/arquivos"
-DB_NAME="ans_db"
+DB_NAME="my_pgdb"
 DB_USER="postgres"
 
 # ------------------------------------------------------------------------ #
