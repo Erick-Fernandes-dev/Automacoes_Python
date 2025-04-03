@@ -165,7 +165,7 @@ if __name__ == "__main__":
 
 ```
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image.png)
+![image.png](/Documentação de scripts Python 1c51e83b35a080218439f497b3b174e4/image.png)
 
 ## Transformação de Dados
 
