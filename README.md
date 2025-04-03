@@ -494,12 +494,12 @@ if __name__ == "__main__":
 ```
 
 ```bash
-python3 main.p
+python3 main.py
 ```
 
 Os dados estavam saindo todos bagunçados, daí, utilizei a IA para apoiar e buscar uma melhor solução para tal problema.
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%201.png)
+![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image.png)
 
 Até que ficou organizado, se comparado com bagunça que estava.
 
