@@ -165,7 +165,7 @@ if __name__ == "__main__":
 
 ```
 
-![image.png](/Documentação de scripts Python 1c51e83b35a080218439f497b3b174e4/image.png)
+![image.png](img/image.png)
 
 ## Transformação de Dados
 
@@ -494,24 +494,24 @@ if __name__ == "__main__":
 ```
 
 ```bash
-python3 main.py
+python3 main.p
 ```
 
 Os dados estavam saindo todos bagunçados, daí, utilizei a IA para apoiar e buscar uma melhor solução para tal problema.
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image.png)
+![image.png](img/image%201.png)
 
 Até que ficou organizado, se comparado com bagunça que estava.
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%202.png)
+![image.png](img/image%202.png)
 
 ## Baixar arquivos e Banco de dados (PostgreSQL 17)
 
 Arquivos baixados dos 2 últimos anos e também o Relatorio_cadop.cs
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%203.png)
+![image.png](img/image%203.png)
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%204.png)
+![image.png](img/image%204.png)
 
 ### Criação das tabelas
 
@@ -557,7 +557,7 @@ CREATE INDEX ON demonstracoes_contabeis(reg_ans);
 CREATE INDEX ON demonstracoes_contabeis(data);
 ```
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%205.png)
+![image.png](img/image%205.png)
 
 ### script
 
@@ -763,7 +763,7 @@ LIMIT 10;
 
 ## Aplicação com Vue.js e Python
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%206.png)
+![image.png](img/image%206.png)
 
 ## **Faltou alguns detalhes para executar o Vue.js.**
 
@@ -777,13 +777,13 @@ os parâmetros necessários para estabelecer a comunicação com o banco de
 dados. Em seguida, utilizei um arquivo CSV como fonte de dados - defini o
  caminho até o diretório *resources* onde o arquivo está localizado. O script é capaz de ler os dados contidos no CSV e inseri-los corretamente no banco de dados.
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%207.png)
+![image.png](img/image%207.png)
 
 Dados do **`operadores.csv`** implementados para dentro do meu PostgreSQL na versão 17.
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%208.png)
+![image.png](img/image%208.png)
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%209.png)
+![image.png](img/image%209.png)
 
 Para executar vá até o diretório python e execcute:
 
@@ -799,7 +799,7 @@ pip install uvicorn fastapi sqlalchemy csv pathlib
 
 ### Estutura de diretório de Frontend
 
-![image.png](Documentac%CC%A7a%CC%83o%20de%20scripts%20Python%201c51e83b35a080218439f497b3b174e4/image%2010.png)
+![image.png](img/image%2010.png)
 
 ## Conclusão
 
